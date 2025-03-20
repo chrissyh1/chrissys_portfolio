@@ -20,7 +20,7 @@ Advanced queries using nested subqueries
 
 Implementing conditional logic with CASE statements
 
-Using RANK(), DENSE_RANK(), and ROW_NUMBER() for ranked data [Link to SQL Query Part 2][(https://github.com/christiiineh/chrissys_portfolio/blob/main/sql%20ladder%20%232.docx)](https://github.com/christiiineh/chrissys_portfolio/blob/main/SQL_Ladder_Challenge_PT%202.sql)
+Using RANK(), DENSE_RANK(), and ROW_NUMBER() for ranked data [Link to SQL Query Part 2](https://github.com/christiiineh/chrissys_portfolio/blob/main/SQL_Ladder_Challenge_PT%202.sql)
 
 Part 3: Window Functions & Time-Based Analysis
 Introduction to window functions: SUM() OVER(), AVG() OVER(), ROW_NUMBER()
@@ -36,7 +36,7 @@ Performing advanced aggregation on stock market data for the Yum! stock
 
 Merging financial data with transactions to derive key business insights
 
-Generating monthly summary reports on stock performance, including high, low, and closing prices, and total volume [Link to SQL Query Part 4][(https://github.com/christiiineh/chrissys_portfolio/blob/main/sql%20%234.docx)](https://github.com/christiiineh/chrissys_portfolio/blob/main/sql_ladder_challenge_pt4.sql)
+Generating monthly summary reports on stock performance, including high, low, and closing prices, and total volume [Link to SQL Query Part 4](https://github.com/christiiineh/chrissys_portfolio/blob/main/sql_ladder_challenge_pt4.sql)
 
 # Skills & Tools
 SQL Queries (Aggregate Functions, Window Functions, Subqueries)
