@@ -1,10 +1,11 @@
 # Chrissy's Portfolio
 
 
-# SQL Window Functions & Advanced Queries (4-Part Project)
+# Project 1 
+SQL Window Functions & Advanced Queries (4-Part Project)
 This repository contains a four-part SQL project designed to strengthen skills in window functions, aggregate calculations, and complex SQL queries. This project was completed as part of a General Assembly program, providing hands-on experience with real-world data analysis scenarios commonly used in financial modeling, business intelligence, and data analysis.
 
-# Project Overview
+Project Overview
 The project is divided into four distinct parts, each progressively building upon previous lessons and concepts to tackle increasingly complex SQL problems:
 
 Part 1: Basic Aggregations & Joins
