@@ -1,5 +1,3 @@
-# Chrissy's Portfolio
-
 ## Welcome
 Hi, I'm Chrissy Hernandez — a data analyst with a creative edge. I blend SQL mastery, storytelling, and design thinking to turn data into meaningful insights. This portfolio highlights my projects and growing skillset.
 
