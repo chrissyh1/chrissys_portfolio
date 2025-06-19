@@ -14,6 +14,3 @@ This Power BI project explores food distribution trends across various U.S. regi
 
 ## 🧩 File Included
 - `Food Distribution Analysis with Power BI.pbix` — Interactive Power BI report with maps, filters, and KPIs.
-
-## 📌 Purpose
-This project demonstrates the use of data storytelling through dashboards to influence nonprofit planning, public health initiatives, and food policy.
