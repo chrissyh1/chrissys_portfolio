@@ -13,6 +13,3 @@ This Tableau project visualizes the timeline, impact, and geographic spread of C
 
 ## 🧩 File Included
 - `COVID Storytelling with Tableau.twbx` — Tableau workbook with story points, filters, and dynamic visualizations.
-
-## 📌 Purpose
-This project emphasizes data storytelling as a method to communicate public health insights in a compelling and accessible way.
